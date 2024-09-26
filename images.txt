@@ -9,3 +9,4 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 mzz2017/v2raya
+v2ray/official

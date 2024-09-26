@@ -8,3 +8,4 @@ dockurr/windows
 nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
+mzz2017/v2raya

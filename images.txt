@@ -11,3 +11,4 @@ allanpk716/chinesesubfinder
 mzz2017/v2raya
 v2ray/official
 whyour/qinglong:develop
+itzg/minecraft-server

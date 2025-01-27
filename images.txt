@@ -12,4 +12,4 @@ mzz2017/v2raya
 v2ray/official
 whyour/qinglong:develop
 itzg/minecraft-server
-doubebly/doube-itv
+doubebly/doube-itv:latest

@@ -13,3 +13,4 @@ v2ray/official
 whyour/qinglong:develop
 itzg/minecraft-server
 doubebly/doube-itv:latest
+laoning666/synology-chat-bot
